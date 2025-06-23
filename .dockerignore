@@ -1,0 +1,14 @@
+target
+
+*.log
+
+node_modules/
+
+.git/
+
+.env
+pom.xml
+
+*.md
+Dockerfile*
+.dockerignore
