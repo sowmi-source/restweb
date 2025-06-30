@@ -1,14 +1,4 @@
-target
-
-*.log
-
-node_modules/
-
+target/
 .git/
-
-.env
-pom.xml
-
-*.md
-Dockerfile*
-.dockerignore
+*.log
+.idea/
